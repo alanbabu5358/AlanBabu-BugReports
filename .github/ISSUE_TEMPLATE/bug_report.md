@@ -8,17 +8,17 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+The bug is not allowing users to view search results after typing a product name and pressing enter or search icon in the search bar.
 
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to 'www.amazon.com'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. Enter name any product(iphone) in the search bar.
+3. Press 'Enter' or click on the magnifying glass icon near to the search bar. 
+4. No search results are displayed.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+The expected behavior is that search results for "iPhone" should be displayed on the search results page.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
