@@ -1,6 +1,9 @@
 ---
 name: Bug report
 about: A report to get more details about bugs
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
